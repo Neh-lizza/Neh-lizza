@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neh-lizza
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Javascript, Jquery, PHP, 
+- 👀 I’m interested in Programming and software development 
+- 🌱 I’m currently learning Javascript, Jquery, PHP, react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email nehlizza@gmail.com 
 - 😄 Pronouns: ...
